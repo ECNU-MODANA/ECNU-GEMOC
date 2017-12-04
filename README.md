@@ -1,1 +1,1 @@
-# SmartCold
+# ECNU GEMOC PROJECT: FSMODE Co-simulation
